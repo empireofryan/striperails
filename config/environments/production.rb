@@ -92,7 +92,7 @@ Rails.application.configure do
   'heroku.com',
   }
   config.action_mailer.default_url_options = {
-    :host => 'your-app.herokuapp.com'
+    :host => 'quiet-woodland-5118.herokuapp.com'
   }
 
   config.paperclip_defaults = {
